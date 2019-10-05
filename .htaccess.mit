@@ -1,0 +1,3 @@
+Redirect 301 /~pouyak/ http://compbio.mit.edu/pouyak/
+Redirect 301 /pouyak/www/ http://compbio.mit.edu/pouyak/
+Redirect 301 /pouyak/ http://compbio.mit.edu/pouyak/
