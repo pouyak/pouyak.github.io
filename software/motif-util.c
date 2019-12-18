@@ -1,7 +1,7 @@
 /* Written by Pouya Kheradpour (pouyak@gmail.com)
  * Copyright (c) 2005-2015 Massachusetts Institute of Technology
  * Released under the MIT license
- * http://compbio.mit.edu/pouyak/software/LICENSE.mit */
+ * https://pouya.kheradpour.com/software/LICENSE.mit */
 /* version 20140120 */
 
 #define _GNU_SOURCE
