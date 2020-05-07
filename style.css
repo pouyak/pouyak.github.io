@@ -8,6 +8,7 @@ body
 	background-color: #9aa7b2;
 	text-align: center;
 	margin: 0em;
+	color: black;
 }
 
 .page
@@ -58,7 +59,6 @@ body
 
 h1, h2
 {
-	color: black;
 	text-align: center;
 	margin: 15px 0px 5px 0px;
 }
