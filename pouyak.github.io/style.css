@@ -1,0 +1,72 @@
+.uline
+{
+	text-decoration: underline;
+}
+
+body
+{
+	background-color: #9aa7b2;
+	text-align: center;
+	margin: 0em;
+	color: black;
+}
+
+.page
+{
+	width: 710px;
+	margin: 0em auto;
+	background-color: #9aa7b2;
+	font-family: sans-serif;
+}
+.header
+{
+	background-color: #f1f1f1;
+	text-align: center;
+	border: thin solid gray;
+	margin: 10px;
+	padding: 0px 10px 15px 10px;
+}
+
+.footer
+{
+	border: thin solid gray;
+	margin: 10px;
+	background-color: #f1f1f1;
+	text-align: right;
+	font-style: italic;
+	padding: 0.5em 22px 0.5em 0px;
+}
+
+.section
+{
+	background-color: #f1f1f1;
+	border: thin solid gray;
+	text-align: justify;
+	margin: 10px;
+	padding: 0px 22px 0px 22px;
+}
+
+.pub
+{
+	padding: 10px 0px 0px 0px;
+	text-align: left;
+}
+
+.pubinfo
+{
+	padding: 5px 0px 0px 1.5em;
+}
+
+h1, h2
+{
+	text-align: center;
+	margin: 15px 0px 5px 0px;
+}
+
+#photo
+{
+	border: 1px solid gray;
+	padding: 3px;
+	margin: 22px 20px 22px 0px;
+}
+
